@@ -74,8 +74,3 @@ if (nome1 === nome2) {
 } else {
     console.log("verdadeiro para tipo e falso para valor");
 }
-if (nome2 === nome3) {
-    console.log("verdadeiro para tipo e valor");
-} else {
-    console.log("verdadeiro ára tipo e falso para valor")
-}
