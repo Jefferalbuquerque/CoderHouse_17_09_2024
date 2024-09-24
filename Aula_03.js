@@ -69,15 +69,13 @@ console.log("falso")
 let nome2 = "Jefferson";
 let nome3 = "Jefferson";*/
 
-/*if (nome1 === nome2) {
+if (nome1 === nome2) {
     console.log("verdadeiro para valor e tipo");
 } else {
     console.log("verdadeiro para tipo e falso para valor");
 }
-*/
-/*if (nome2 === nome3) {
+if (nome2 === nome3) {
     console.log("verdadeiro para tipo e valor");
 } else {
     console.log("verdadeiro ára tipo e falso para valor")
 }
-*/
