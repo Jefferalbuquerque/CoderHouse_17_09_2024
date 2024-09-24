@@ -65,9 +65,9 @@ console.log("falso")
 */
 
 //estrimtamente igual
-/*let nome1 = "Júlio";
+let nome1 = "Júlio";
 let nome2 = "Jefferson";
-let nome3 = "Jefferson";*/
+let nome3 = "Jefferson";
 
 if (nome1 === nome2) {
     console.log("verdadeiro para valor e tipo");
